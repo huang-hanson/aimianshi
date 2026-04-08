@@ -3,7 +3,15 @@
     "allow": [
       "Bash(mv \"场景题：分布式限流器限的是什么流量目标是什么.md\" \"../../分布式面试题/场景题/\")",
       "Bash(mv \"不同机房的数据同步怎么做的怎么优化的.md\" \"../../分布式面试题/场景题/\")",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(powershell:*)",
+      "Bash(cd MySQL 面试题)",
+      "Bash(/usr/bin/wslpath -u \"C:\\\\aimianshi\\\\MySQL 面试题\")",
+      "Bash(/usr/bin/wslpath -u -)",
+      "Bash(git ls-tree:*)",
+      "Bash(git checkout:*)",
+      "Bash(git restore:*)",
+      "Bash(Set-Content \"C:\\\\Users\\\\hanso\\\\.claude\\\\skills\\\\interview-master\\\\SKILL.md\" -Encoding UTF8')"
     ]
   }
 }
