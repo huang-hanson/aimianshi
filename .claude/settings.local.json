@@ -11,7 +11,9 @@
       "Bash(git ls-tree:*)",
       "Bash(git checkout:*)",
       "Bash(git restore:*)",
-      "Bash(Set-Content \"C:\\\\Users\\\\hanso\\\\.claude\\\\skills\\\\interview-master\\\\SKILL.md\" -Encoding UTF8')"
+      "Bash(Set-Content \"C:\\\\Users\\\\hanso\\\\.claude\\\\skills\\\\interview-master\\\\SKILL.md\" -Encoding UTF8')",
+      "Bash(mvn dependency:resolve -q)",
+      "Bash(mvn:*)"
     ]
   }
 }
